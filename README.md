@@ -16,11 +16,19 @@ In the end, your solution will look like this:
 
 ## Setting up:
 
-- Clone this repo, and run `npm install`. To launch the app, run `npm start`.
+- Fork and then clone this repo
+
+- Run `npm install`. To launch the app, run `npm start`.
 
 - The code that's running is in the `/src` directory - that's what you need to change!
 
 You can do the below tasks in any order you'd like.
+
+--------
+
+## Turning in:
+
+- Remember to make a pull request with your completed work in order to be given credit for this assignment
 
 ---------
 
